@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-festival-musica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaloLlatser/gl_1223_FestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Gonzalo Llatser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaloLlatser/gl_1223_FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/GonzaloLlatser/gl_1223_FestivalMusica#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.69.5"
+  }
+}
